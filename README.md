@@ -52,9 +52,9 @@ Pentru a valida eficienta tehnicilor de *Computer Vision*, proiectul antreneaza 
 
 8. **Extragere concluzii**
 
-# Header tabel pentru analiza literaturii de specialitate (state-of-the-art).
+   - Se determina metricii de performanta si se analizeaza diferentele intre cele 2 modele, evidentiand necesitatea si eficienta tehnicilor de Prelucrare de Imagini
 
-    - Se determina metricii de performanta si se analizeaza diferentele intre cele 2 modele, evidentiand necesitatea si eficienta tehnicilor de Prelucrare de Imagini
+# Header tabel pentru analiza literaturii de specialitate (state-of-the-art).
 
  | Nr. | Autor(i) / An | Titlul articolului / proiectului | Aplicație / Domeniu | Tehnologii utilizate | Metodologie / Abordare | Rezultate | Limitări | Comentarii suplimentare |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
